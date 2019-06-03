@@ -1,12 +1,12 @@
-## Description
+##  Project Description
 The main idea behind this project is to lunch your web project on a Linux server to be accessed by the users. In this repository I configured Amazon LightSail Ubuntu Linux server and deployed the item catalog project on it.
 ## Server Details
-Server IP: 3.121.76.187
-Web URL: 3.121.76.187.xip.io
+1. Server IP: 3.121.76.187
+2. web URL: 3.121.76.187.xip.io
 
-To connect to the server using SSH:
- username: grader
- password: grader
+3. To connect to the server using SSH:
+ username: grader,
+ password: grader,
  private_key: "UNDER SUBMITTION NOTES"
 
 ## Steps to configure the server and deploy Item Catalog Project
