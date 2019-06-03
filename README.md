@@ -46,7 +46,7 @@ $ sudo virtualenv venv
 $ source venv/bin/activate
 $ sudo chmod -R 777 venv
 $ sudo pip install Flask
-$ sudo pip install httplib2 oauth2client sqlalchemy psycopg2 requests
+$ sudo pip install httplib2 oauth2client sqlalchemy sqlaclemy-utils psycopg2 requests
 ```
 
 10. Add the below code to (etc/apache2/sites-available/catalogApp.conf):
